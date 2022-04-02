@@ -1,16 +1,37 @@
-# Mod13_Mapping_Earthquakes
+# Module 13 Challenge
 
-Basic Project Plan
-Purpose
-The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
+---
+## Mapping Earthquakes
+---
 
-Tasks
-To complete this project, use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then add the data to a map.
+### Project Overview
+As a data visualization specialist for a nonprofit that provides data driven storytelling on disasters around the world, your goal for the project is to visusally show the differences between the magnitudes of earthquakes all over the world for the last seven days. 
 
-Approach
-Your approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. You'll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
+### Challenge Objectives
+Update the earthquake map you have already written so that it includes: 
+- three different background map options
+- an earthquake overlay with all earthquakes in the last 7 days,
+- a separate earthquake overlay highlighting earthquakes with magnitudes greater than 4.5, and
+- a final overlay that displays the location of tectonic plates.
 
-Now that you have an overview of the project plan, let's set up a Mapbox account and get the API token you'll need to create geographical maps.
 
+### Resources
+**Data Sources**
+- [Latest earthquake data] from the US Geological Survey ("https://www.usgs.gov/programs/earthquake-hazards/earthquakes")
 
-I am adding this to test my GitHub branch.
+**Software**
+- JavaScript
+- HTML
+- CSS
+- D3
+- Mapbox
+- Leaflet
+- Visual Studio Code 1.63.2
+
+### Challenge Results
+
+![](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streetmap.png)
+
+![](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/satellitemap.png)
+
+![](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/darkmap.png)
