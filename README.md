@@ -31,7 +31,10 @@ Update the earthquake map you have already written so that it includes:
 ### Challenge Results
 
 ![](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streetmap.png)
+This is an image of the street map background with all three overlays selected.
 
 ![](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/satellitemap.png)
+This is an image of the satellite map background without the major earthquakes overaly selected.
 
 ![](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/darkmap.png)
+This is an image of the dark map background with only the major earthquakes and tectonic plates overalys selected.
