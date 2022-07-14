@@ -1,6 +1,3 @@
-# Module 13 Challenge
-
----
 ## Mapping Earthquakes
 ---
 
